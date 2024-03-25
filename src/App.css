@@ -1,11 +1,15 @@
 .logoBar .logo {
-  max-width: 200px;
+  max-width: 150px;
 }
 .logoBar span {
-  font-size: 76px;
+  font-size: 65px;
   vertical-align: middle;
 }
-.logoBar {
-  margin: 30px;
+header {
+  margin-top: 30px;
+}
+
+.App-footer {
   text-align: center;
+  margin: 30px 0;
 }
