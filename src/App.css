@@ -1,0 +1,11 @@
+.logoBar .logo {
+  max-width: 200px;
+}
+.logoBar span {
+  font-size: 76px;
+  vertical-align: middle;
+}
+.logoBar {
+  margin: 30px;
+  text-align: center;
+}
