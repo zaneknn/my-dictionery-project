@@ -1,3 +1,6 @@
 .Dictionary {
-  font-weight: 500;
+  font-weight: 200;
+}
+.Dictionary form {
+  width: 200;
 }
