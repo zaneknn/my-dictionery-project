@@ -13,7 +13,12 @@ function App() {
         <main>
           <Dictionary defaultKeyword="book" />
         </main>
-        <footer className="App-footer">Coded by Zane Jakuseva 📚</footer>
+        <footer className="App-footer">
+          Coded by <a href="https://github.com/zaneknn">Zane Jakuseva</a> and is
+          open-sourced on{" "}
+          <a href="https://github.com/zaneknn/my-dictionery-project">Github</a>{" "}
+          📚
+        </footer>
       </div>
     </div>
   );

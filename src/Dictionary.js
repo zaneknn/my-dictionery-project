@@ -63,6 +63,7 @@ export default function Dictionary(props) {
               type="search"
               onChange={handleKeywordChange}
               defaultValue={props.defaultKeyword}
+              id="search"
             />
           </form>
           <div className="hint">
