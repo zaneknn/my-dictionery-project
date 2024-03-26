@@ -2,8 +2,9 @@
   max-width: 150px;
 }
 .logoBar span {
-  font-size: 65px;
+  font-size: 80px;
   vertical-align: middle;
+  font-family: "Dancing Script", cursive;
 }
 header {
   margin-top: 30px;
@@ -12,4 +13,11 @@ header {
 .App-footer {
   text-align: center;
   margin: 30px 0;
+}
+body {
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(254, 255, 165) 0%,
+    rgb(255, 232, 182) 90%
+  );
 }

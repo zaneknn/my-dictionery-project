@@ -11,7 +11,7 @@ function App() {
           <span>Dictionary</span>
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="book" />
         </main>
         <footer className="App-footer">Coded by Zane Jakuseva 📚</footer>
       </div>
