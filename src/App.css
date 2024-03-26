@@ -21,3 +21,7 @@ body {
     rgb(255, 232, 182) 90%
   );
 }
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
